@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Digsolab::Application.load_tasks
+Authproviders::Application.load_tasks
